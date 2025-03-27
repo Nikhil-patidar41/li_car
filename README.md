@@ -14,3 +14,4 @@ Feature Engineering – Converts raw data into a machine-learning-friendly forma
 Model Training & Testing – Implements and compares multiple models.
 Predictions & Optimization – Fine-tunes hyperparameters for better accuracy.
 web App Integration – Deploys the model using Streamlit for real-time predictions.
+In this i use more data then last model and accurate data 
